@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Hi%20I'm%20Tushar!%20👋&fontSize=50&fontColor=1a1a2e&fontAlignY=38&desc=Staff%20Engineer%20·%20AI%20Researcher%20·%20Open%20Source%20Builder&descAlignY=58&descColor=1a1a2e" width="100%"/>
 
-<img src="assets/minion-computer.gif" width="150" alt="minion"/>
+<img src="assets/minion-computer.gif" width="190" alt="minion"/>
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharbhardwaj19/)
