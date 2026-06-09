@@ -61,11 +61,3 @@
 
 ---
 
-## 🟡 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tushariitr-19&show_icons=true&theme=dark&icon_color=FFD700&title_color=FFD700&text_color=ffffff&bg_color=1a1a2e&border_color=FFD700&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tushariitr-19&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=1a1a2e&border=FFD700" width="48%"/>
-</div>
-
----
