@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <div align="center">
-<img src="assets/breaking_prod_banner.svg" width="70%" alt="Breaking Prod"/>
+<img src="assets/breaking_prod_banner.svg" width="80%" alt="Breaking Prod"/>
 </div>
 
 <img src="assets/minion-computer.gif" width="170" alt="minion"/>
