@@ -1,9 +1,11 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Hi%20I'm%20Tushar!%20👋&fontSize=50&fontColor=1a1a2e&fontAlignY=38&desc=Staff%20Engineer%20·%20AI%20Researcher%20·%20Open%20Source%20Builder&descAlignY=58&descColor=1a1a2e" width="100%"/>
+<div align="center">
+<img src="assets/breaking_prod_banner.svg" width="70%" alt="Breaking Prod"/>
+</div>
 
-<img src="assets/minion-computer.gif" width="190" alt="minion"/>
+<img src="assets/minion-computer.gif" width="170" alt="minion"/>
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tusharbhardwaj19/)
