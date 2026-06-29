@@ -37,6 +37,8 @@
 | [patents-mcp](https://github.com/tushariitr-19/patents-mcp) | MCP server for patent search and prior art discovery via Google Patents | Go · BigQuery · MCP |
 | [immigration-mcp](https://github.com/tushariitr-19/immigration-mcp) | US immigration guidance — Visa Bulletin, priority date checker | Go · MCP |
 | [research-agent-adk](https://github.com/tushariitr-19/research-agent-adk) | Multi-agent research assistant — LlmAgent, SequentialAgent, ParallelAgent | Go · Google ADK · Gemini |
+| [assay](https://github.com/tushariitr-19/assay) | Framework-agnostic evaluation library and CLI for MCP servers and AI agents | Go · MCP · Google ADK |
+| [testgen-loop-adk](https://github.com/tushariitr-19/testgen-loop-adk) | Goal-driven loop agent — writes Go unit tests until coverage hits the target | Go · Google ADK · Gemini · LoopAgent |
 
 ---
 
